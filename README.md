@@ -1,3 +1,3 @@
 # flutter-rich-poor
 
-<img src="/I_am_poor.gif" width="250" height="550"/>
+<img src="/I_am_poor.gif" width="275" height="550"/>
