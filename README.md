@@ -1,3 +1,3 @@
 # flutter-rich-poor
 
-![](I_am_poor.gif = 1080x1920)
+<img src="/I_am_poor.gif" width="250" height="550"/>
